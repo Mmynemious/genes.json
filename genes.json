@@ -1,0 +1,20 @@
+[
+  {
+    "name": "FOXP2",
+    "description": "Speech quirks, language genius, or silence — all tied to this.",
+    "link": "https://www.ncbi.nlm.nih.gov/gene/93986",
+    "category": "cognition"
+  },
+  {
+    "name": "DEC2",
+    "description": "Some people sleep only 4 hours. Thank DEC2.",
+    "link": "https://www.ncbi.nlm.nih.gov/gene/84678",
+    "category": "behavior"
+  },
+  {
+    "name": "ELN",
+    "description": "The trust-too-easily gene — missing this may explain Williams Syndrome.",
+    "link": "https://www.ncbi.nlm.nih.gov/gene/2006",
+    "category": "emotion"
+  }
+]
