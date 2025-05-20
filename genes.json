@@ -1,134 +1,20 @@
 [
   {
     "name": "FOXP2",
-    "description": "Speech quirks, language genius, or silence — all tied to this.",
+    "description": "Speech quirks, language genius, or silence — all tied to this gene.",
     "link": "https://www.ncbi.nlm.nih.gov/gene/93986",
-    "category": "cognition"
+    "summary": "FOXP2 is essential for proper development of speech and language. Mutations here have been linked to speech disorders and linguistic ability."
   },
   {
     "name": "DEC2",
     "description": "Some people sleep only 4 hours. Thank DEC2.",
     "link": "https://www.ncbi.nlm.nih.gov/gene/84678",
-    "category": "behavior"
+    "summary": "DEC2 affects circadian rhythm and sleep length. Some rare mutations allow individuals to thrive on significantly less sleep."
   },
   {
     "name": "ELN",
     "description": "The trust-too-easily gene — missing this may explain Williams Syndrome.",
     "link": "https://www.ncbi.nlm.nih.gov/gene/2006",
-    "category": "emotion"
-  },
-  {
-    "name": "OXTR",
-    "description": "Oxytocin receptor gene — linked to bonding and trust behaviors.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/5021",
-    "category": "emotion"
-  },
-  {
-    "name": "MAOA",
-    "description": "Sometimes nicknamed the ‘warrior gene’ due to links to aggression.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/4128",
-    "category": "emotion"
-  },
-  {
-    "name": "DRD4",
-    "description": "Dopamine receptor gene linked to thrill-seeking and impulsivity.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/1815",
-    "category": "behavior"
-  },
-  {
-    "name": "ACTN3",
-    "description": "The sprinter gene. Found in many elite athletes.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/89",
-    "category": "behavior"
-  },
-  {
-    "name": "SERT",
-    "description": "Your serotonin transporter — possibly shaping your mood baseline.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/6532",
-    "category": "emotion"
-  },
-  {
-    "name": "COMT",
-    "description": "Affects emotional regulation and cognitive performance under stress.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/1312",
-    "category": "cognition"
-  },
-  {
-    "name": "BDNF",
-    "description": "Supports learning and memory by helping brain plasticity.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/627",
-    "category": "cognition"
-  },
-  {
-    "name": "ADRA2B",
-    "description": "Linked to emotional memory — people may remember trauma more vividly.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/151",
-    "category": "emotion"
-  },
-  {
-    "name": "CYP1A2",
-    "description": "Determines how fast your body metabolizes caffeine.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/1544",
-    "category": "behavior"
-  },
-  {
-    "name": "ZFHX3",
-    "description": "A rare gene linked to self-employment and non-conformity.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/23011",
-    "category": "behavior"
-  },
-  {
-    "name": "AVPR1A",
-    "description": "Regulates social bonding, trust, and even monogamy.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/552",
-    "category": "emotion"
-  },
-  {
-    "name": "CLOCK",
-    "description": "Your circadian rhythm master gene — night owl or early bird?",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/9575",
-    "category": "behavior"
-  },
-  {
-    "name": "FTO",
-    "description": "Linked to appetite control and body weight regulation.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/79068",
-    "category": "behavior"
-  },
-  {
-    "name": "TPH2",
-    "description": "Key gene for serotonin production. Influences emotional resilience.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/121278",
-    "category": "emotion"
-  },
-  {
-    "name": "HTR2A",
-    "description": "A serotonin receptor gene — tied to psychedelic experiences.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/3356",
-    "category": "emotion"
-  },
-  {
-    "name": "ANKK1",
-    "description": "Closely linked with dopamine regulation and novelty-seeking.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/255239",
-    "category": "behavior"
-  },
-  {
-    "name": "SLC6A4",
-    "description": "Another serotonin transporter gene — influences anxiety sensitivity.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/6532",
-    "category": "emotion"
-  },
-  {
-    "name": "GABRA2",
-    "description": "Linked to how your brain processes alcohol and social inhibition.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/2555",
-    "category": "behavior"
-  },
-  {
-    "name": "GRIN2B",
-    "description": "Influences memory, focus, and emotional processing.",
-    "link": "https://www.ncbi.nlm.nih.gov/gene/2904",
-    "category": "cognition"
+    "summary": "ELN codes for elastin, a protein critical to connective tissues. Its deletion is linked to the developmental disorder Williams Syndrome."
   }
 ]
