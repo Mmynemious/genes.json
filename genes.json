@@ -5,45 +5,48 @@
     "link": "https://www.ncbi.nlm.nih.gov/gene/93986",
     "summary": "FOXP2 is essential for proper development of speech and language. Mutations here have been linked to speech disorders and linguistic ability."
   },
+  
   {
     "name": "DEC2",
     "description": "Some people sleep only 4 hours. Thank DEC2.",
     "link": "https://www.ncbi.nlm.nih.gov/gene/84678",
     "summary": "DEC2 affects circadian rhythm and sleep length. Some rare mutations allow individuals to thrive on significantly less sleep."
   },
+  
   {
     "name": "ELN",
     "description": "The trust-too-easily gene — missing this may explain Williams Syndrome.",
     "link": "https://www.ncbi.nlm.nih.gov/gene/2006",
     "summary": "ELN codes for elastin, a protein critical to connective tissues. Its deletion is linked to the developmental disorder Williams Syndrome."
-  }
+  },
+  
 
   {
   "name": "DRD4",
   "description": "Risk? Adventure? This dopamine gene’s got you covered.",
   "link": "https://www.ncbi.nlm.nih.gov/gene/1815",
   "summary": "DRD4 is linked to novelty-seeking behavior and dopamine signaling. Variants have been studied in relation to ADHD, addiction, and personality traits."
-}
+  },
 
   {
   "name": "MAOA",
   "description": "Sometimes called the warrior gene — and it's controversial.",
   "link": "https://www.ncbi.nlm.nih.gov/gene/4128",
   "summary": "MAOA affects the breakdown of neurotransmitters like serotonin and dopamine. Certain variants have been studied for links to impulsivity and aggression."
-}
+  },
   
-{
+  {
   "name": "ACTN3",
   "description": "The sprint gene — elite athletes often have this mutation.",
   "link": "https://www.ncbi.nlm.nih.gov/gene/89",
   "summary": "ACTN3 is associated with fast-twitch muscle fibers. A common mutation deactivates it, but this may actually benefit endurance athletes."
-}
+  },
   
-{
+  {
   "name": "SLC6A4",
   "description": "Affects serotonin reuptake — could influence anxiety or resilience.",
   "link": "https://www.ncbi.nlm.nih.gov/gene/6532",
   "summary": "SLC6A4 encodes the serotonin transporter. Its variants are studied for their impact on mood regulation and mental health."
-}
+  },
 
 ]
